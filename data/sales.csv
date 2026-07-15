@@ -1,0 +1,13 @@
+month,region,product,revenue,units
+2026-01,North,Widget A,42000,140
+2026-01,South,Widget A,31000,105
+2026-01,West,Widget B,28500,72
+2026-02,North,Widget A,48000,160
+2026-02,South,Widget A,35500,118
+2026-02,West,Widget B,33200,84
+2026-03,North,Widget A,56000,186
+2026-03,South,Widget A,41000,136
+2026-03,West,Widget B,39800,101
+2026-03,North,Widget C,22000,55
+2026-03,South,Widget C,18500,48
+2026-03,West,Widget C,15000,39
