@@ -81,8 +81,7 @@ call.
 
 ```bash
 # 1. Clone
-git clone https://github.com//sales-analysis-swarm-with-tablecharts.git
-cd sales-analysis-swarm-with-tablecharts
+git clone https://github.com/Browncabinet/sales-analysis-swarm-with-tablecharts.git
 
 # 2. Install
 python -m venv .venv && source .venv/bin/activate
